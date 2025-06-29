@@ -62,3 +62,6 @@ Bu depo, Bilgisayar Mimarisi ve Organizasyonu dersi için Visual Studio ve VS Co
 
 * `PTR/`
   Pointer dereferencing örnekleri: `BYTE PTR`, `WORD PTR`, `DWORD PTR` kullanımı.
+
+## 📬 İletişim
+- LinkedIn: [Baran Kanat](https://www.linkedin.com/in/baran-kanat)
