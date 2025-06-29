@@ -3,6 +3,7 @@
 Bu depo, Bilgisayar Mimarisi ve Organizasyonu dersi için Visual Studio ve VS Code kullanılarak hazırlanmış Assembly alıştırmalarını içerir.
 
 <br>
+
 ## 📁 Çalışmalar
 
 * `ornek1-basit-islemler/`
