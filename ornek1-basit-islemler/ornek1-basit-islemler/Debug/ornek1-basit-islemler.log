@@ -1,0 +1,7 @@
+﻿  Assembling main.asm...
+main.asm(11): error A2074: cannot access label through segment registers
+main.asm(12): error A2074: cannot access label through segment registers
+main.asm(14): error A2074: cannot access label through segment registers
+main.asm(15): error A2074: cannot access label through segment registers
+main.asm(22): warning A4023: with /coff switch, leading underscore required for start address : main
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: "ml.exe /c /nologo /Zi /Fo"Debug\main.obj" /W3 /errorReport:prompt  /Tamain.asm" komutundan 1 koduyla çıkıldı.
