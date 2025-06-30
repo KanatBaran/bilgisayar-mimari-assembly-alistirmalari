@@ -40,7 +40,7 @@ Bu depo, Bilgisayar Mimarisi ve Organizasyonu dersi için Visual Studio ve VS Co
   `ALIGN` direktifi ile veri hizalama (alignment) yöntemini gösterir.
 
 * `12-ornek-lenght/`
-  Yanlış yazımıyla `LENGTH` makrosu kullanımı ve veri segmenti uzunluğunu ölçme.
+  `LENGTH` makrosu kullanımı ve veri segmenti uzunluğunu ölçme.
 
 * `13-ornek-label/`
   Etiket (label) tanımlama, atlama (`JMP`) ve etiket bazlı akış kontrol örnekleri.
